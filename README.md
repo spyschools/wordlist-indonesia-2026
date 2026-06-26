@@ -42,14 +42,14 @@ sudo apt install python3 -y
 ### 2. Clone repository
 
 ```bash
-git clone https://github.com/<username-anda>/<nama-repo>.git
-cd <nama-repo>
+git clone https://github.com/spyschools/wordlist-indonesia-2026.git
+cd wordlist-indonesia-2026
 ```
 
 Atau jika hanya mengunduh file tunggal:
 
 ```bash
-wget https://raw.githubusercontent.com/<username-anda>/<nama-repo>/main/wordlist-indonesia-2026.py
+wget https://raw.githubusercontent.com/spyschools/wordlist-indonesia-2026/main/wordlist-indonesia-2026.py
 ```
 
 ### 3. (Opsional) Buat virtual environment
